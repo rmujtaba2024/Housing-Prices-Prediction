@@ -1,0 +1,1 @@
+This project is intended to use machine learning algorithms to detect housing prices based on various characteristics of the house. Mainly focuses on the preprocessing of data before the ML algorithm is applied
